@@ -52,7 +52,7 @@
 `PaulWalker_TG`
 
 ## Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna/TeamSakura">
+<p><a href="https://heroku.com/deploy?templatehttps://github.com/navaneethrkrishna/sakurafilterbot=">
 
 <details><summary>Deploy To VPS</summary>
 <p>
